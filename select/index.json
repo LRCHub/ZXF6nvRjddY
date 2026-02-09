@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ハイドアンドシーク (From \"THE FIRST TAKE\")",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2026-02-09T11:43:17.292814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハイドアンドシーク - From THE FIRST TAKE",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_ハイドアンドシーク_-_From_THE_FIRST_TAKE_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハイドアンドシーク",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/02_ハイドアンドシーク_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハイドアンドシーク",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_ハイドアンドシーク_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハイドアンドシーク - From THE FIRST TAKE",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/04_ハイドアンドシーク_-_From_THE_FIRST_TAKE_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハイドアンドシーク - From THE FIRST TAKE",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/05_ハイドアンドシーク_-_From_THE_FIRST_TAKE_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハイドアンドシーク / キタニタツヤ - HIDE AND SEEK / Tatsuya Kitani",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/06_ハイドアンドシーク___キタニタツヤ_-_HIDE_AND_SEEK___Tatsuya_Kitani_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイドアンドシーク",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_ハイドアンドシーク_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハイドアンドシーク",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_ハイドアンドシーク_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハイドアンドシーク - From THE FIRST TAKE",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_03_ハイドアンドシーク_-_From_THE_FIRST_TAKE_キタニタツヤ.txt"
+    }
+  ]
+}
